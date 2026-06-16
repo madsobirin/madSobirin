@@ -70,3 +70,5 @@
 </div>
 
 <br/>
+
+![GitHub Snake](https://raw.githubusercontent.com/<USERNAME_ANDA>/<USERNAME_ANDA>/output/github-snake.svg)
