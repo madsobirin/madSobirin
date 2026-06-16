@@ -2,7 +2,7 @@
 
 <!-- Banner Animasi Mengetik -->
 <a href="https://github.com/madSobirin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E8F5BD&center=true&vCenter=true&width=500&lines=I'm+Ahmad+Sobirin+👨‍💻;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E8F5BD&center=true&vCenter=true&width=500&lines=Hi,+I+am+Ahmad+Sobirin+👨‍💻;Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 </div>
