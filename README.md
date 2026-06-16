@@ -8,8 +8,7 @@
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
-
+<h3 align="center">Frontend</h3>
 <div align="center">
 <!-- Spacer penahan lebar kolom -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
@@ -25,7 +24,7 @@
 </td>
 <td valign="top" width="33%">
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <div align="center">
 <!-- Spacer penahan lebar kolom -->
@@ -48,7 +47,7 @@
 </td>
 <td valign="top" width="33%">
 
-### DevOps
+<h3 align="center">DevOps</h3>
 
 <div align="center">
 <!-- Spacer penahan lebar kolom -->
