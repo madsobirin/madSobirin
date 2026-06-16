@@ -71,4 +71,4 @@
 
 <br/>
 
-![GitHub Snake](https://raw.githubusercontent.com/<madSobirin>/<madSobirin>/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/madSobirin/madSobirin/output/github-snake.svg)
