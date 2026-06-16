@@ -1,8 +1,15 @@
-### Hai 👋
+<div align="center">
 
-### <div align="center">I'm Sobirin 👨‍💻 </div>
+<!-- Banner Animasi Mengetik -->
+<a href="https://github.com/madSobirin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E8F5BD&center=true&vCenter=true&width=500&lines=I'm+Ahmad+Sobirin+👨‍💻;Welcome+to+my+profile!" alt="Typing SVG" />
+</a>
 
-<br/>
+</div>
+
+---
+
+<h2 align="center"> 🛠️ My Skill Set </h2>
 
 <table width="100%">
 <tr>
@@ -25,13 +32,12 @@
 <td valign="top" width="33%">
 
 <h3 align="center">Backend</h3>
-
 <div align="center">
 <!-- Spacer penahan lebar kolom -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
 <br/>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/express/white" alt="Express.js" height="50" /></a></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -48,7 +54,6 @@
 <td valign="top" width="33%">
 
 <h3 align="center">DevOps</h3>
-
 <div align="center">
 <!-- Spacer penahan lebar kolom -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
@@ -62,7 +67,9 @@
 </tr>
 </table>
 
-## Connect with me
+<br/>
+
+<h2 align="center"> 🤝 Connect With Me </h2>
 
 <div align="center">
 <a href="https://instagram.com/aahmdsobirin" target="_blank">
@@ -81,6 +88,9 @@
 
 <br/>
 
+<h2 align="center"> 🐍 Contributions </h2>
+
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -95,3 +105,4 @@
     src="https://raw.githubusercontent.com/madSobirin/madSobirin/output/github-snake.svg"
   />
 </picture>
+</div>
